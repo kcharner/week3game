@@ -1,0 +1,40 @@
+* {
+	font-family: Arial;
+	color: black;
+	background-color: white;
+
+}
+
+.page-header {
+	margin-top: 0px;
+}
+
+h1 {
+	font-family: Dancing Script;
+	font-size: 80px;
+	background-color: white;
+	color: #DF744A;
+	text-align: center;
+	padding-top: 1px;
+	padding-bottom: 10px;
+	margin: 0 auto;
+	border: 1px solid #C0B283;
+}
+
+body {
+	background-image: url("../images/bubbles.jpg");
+}
+
+.jumbotron {
+	margin-left: 200px;
+	margin-right: 200px;
+	text-align: center;
+	padding-bottom: 50px;
+	background-color: white;
+	border: 1px solid #C0B283;
+	height: 600px;
+}
+
+#backgroundimage {
+	background-size: 70px;
+}
